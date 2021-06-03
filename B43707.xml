@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A map of merry conceites wherein is contained much mirth which may yeeld pleasureto [sic] the reader, delight to the hearer, content to the buyer, profit to the seller, and hindrance to no man : the book : all you that doe spie me, come quickly &amp; buy me, if once you doe [sic] try me, you will not deny me / by Laurence Price.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43707</idno><idno type="EEBO-CITATION">625259487</idno>
+  <idno type="VID">211314</idno>
+  <idno type="EEBO-PROQUEST">2240875443</idno>
+  
+            <idno type="OCLC"> 625259487</idno>
+            <idno type="OCLC">ocn 625259487</idno>
+            <idno type="STC">Wing P3375</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211314)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A map of merry conceites wherein is contained much mirth which may yeeld pleasureto [sic] the reader, delight to the hearer, content to the buyer, profit to the seller, and hindrance to no man : the book : all you that doe spie me, come quickly &amp; buy me, if once you doe [sic] try me, you will not deny me / by Laurence Price.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.C. for Francis Grove, and are to be sold at his shop on Snow-hill neer the Sarazens head,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title illustration.</note>
+                  <note>In verse.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English poetry --  Early modern, 1500-1700 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:211314:1"/>
+            <pb facs="tcp:211314:2"/>
+            <pb facs="tcp:211314:2"/>
+            <p>A MAP OF MERRY CONCEITES.</p>
+            <p>Wherein is Contained much mirth which may yeeld pleasure to the Reader, delight to the Hearer, content to the Buyer, profit to the Seller, and hindrance to no man.</p>
+            <p>THE BOOK.</p>
+            <q>
+               <l>All you that doe spie me, Come quickly &amp; buy me,</l>
+               <l>If once you doe try me, You will not deny me.</l>
+            </q>
+            <p>By <hi>Laurence Price.</hi>
+            </p>
+            <figure/>
+            <p>London, Printed by <hi>E. C.</hi> for <hi>Francis Grove,</hi> and are to be sold at his shop on <hi>Snow-hill</hi> neer the <hi>Sarazens</hi> head, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:211314:3"/>
+            <pb facs="tcp:211314:3"/>
+            <head>A MAP OF MERRIE CONCEITES.</head>
+            <div type="poem">
+               <l>
+                  <seg rend="decorInit">C</seg>Vrteous spectators that my verses heare,</l>
+               <l>Stand not amaz'd but come a little near,</l>
+               <l>Vnto your view I purpose to present</l>
+               <l>A little book which yéelds much merrimē</l>
+               <l>I have in hand no monstrous beast to brag on</l>
+               <l>As <hi>Parkers</hi> Oxe, nor Trundles mighty Draggon:</l>
+               <l>
+                  <hi>Bevis</hi> of Hampton, nor great Warwicks Earle,</l>
+               <l>Which ventur'd life and blood to gain a girle,</l>
+               <l>Nor would I have you think me so mistaken</l>
+               <l>To write of <hi>Faustus,</hi> or old Fryer <hi>Bacon,</hi>
+               </l>
+               <l>Of <hi>Pluto</hi> nor of <hi>Proserpine</hi> of hell,</l>
+               <l>Which might affright you no such newes ile tell,</l>
+               <l>I am not us'd to cringe, to bend or crouch,</l>
+               <l>Or cousen money out of Maudlins pouch.</l>
+               <l>No no, my muse is otherwise inclin'd,</l>
+               <l>They that peruse these lines may quickly finde</l>
+               <l>A remedy for melancholy sits,</l>
+               <l>I will kick a fool into some riper wits:</l>
+               <l>Women that to the Alehouse doe resort,</l>
+               <l>Twill make them laugh and find them pretty sport,</l>
+               <l>Then buy my Pamphlet, read it at your leasure,</l>
+               <l>Twill serve to passe the time, and do you pleasure.</l>
+            </div>
+            <div type="poem">
+               <l>AN Vsurer that had more store of gold</l>
+               <l>Then all his coffers, chests, and trunks would hold,</l>
+               <pb facs="tcp:211314:4"/>
+               <l>Went to a Neigbour poor that dwelt close by,</l>
+               <l>Intreating him an simple curtesy,</l>
+               <l>Which was to give him leave till Lamas day</l>
+               <l>Five bags of Rudocks in a room to lay</l>
+               <l>Of th' poor mans house, who quickly gave consent</l>
+               <l>He should lay in his gold, and pay no rent;</l>
+               <l>Which being done, the dore hee lockt up fast,</l>
+               <l>But mark the jest, here comes the best at last,</l>
+               <l>This poor man found another way unto</l>
+               <l>Old Magus bagges; and made no more ado</l>
+               <l>But very boldly to the place did enter,</l>
+               <l>And manfully upon the gold did venture,</l>
+               <l>Not long time after he went to the Town,</l>
+               <l>and bought his wife a petticoat and gown,</l>
+               <l>Silk Apron, dainty Ruffs, and Hose and Shooes,</l>
+               <l>A heaver hat the best that he could choose:</l>
+               <l>Kings to her fingers of the purest gold,</l>
+               <l>With other garments Gorgious to behold:</l>
+               <l>Thus she that lately went as poor as may be</l>
+               <l>Was now adorned like a petty Ladie,</l>
+               <l>His children must with costly fare be fed,</l>
+               <l>Which had before want both of drink and bred,</l>
+               <l>This caus'd their neigbours all within the parish</l>
+               <l>Wonder much strangely thus to see them florish,</l>
+               <l>Some surely thought that he rob'd for gain,</l>
+               <l>And others said he had some rich man slain;</l>
+               <l>Many reported that his deeds were evill,</l>
+               <l>And that his soul was given to the devill:</l>
+               <l>Else how quoth they could he that was so poore</l>
+               <l>Abound in wealth and have of gold such store:</l>
+               <l>In short time after as it did appear</l>
+               <l>This news was brought unto old Magus ear,</l>
+               <l>Who in milde rage, as feirce as any snaile,</l>
+               <l>Came to the house thinking for to prevail,</l>
+               <l>With lofty spéech he did his gold demand,</l>
+               <l>And swore that he must have it out of hand:</l>
+               <pb facs="tcp:211314:4"/>
+               <l>Why quoth the poor man, Sir, you have the key,</l>
+               <l>But for your gold you must a long time stay;</l>
+               <l>I gave you leave to bring in bags of worth,</l>
+               <l>But I not give you leave to fetch them forth:</l>
+               <l>Now how this Iarre did end to me's unknown,</l>
+               <l>But yet I hope the poor man held his own.</l>
+            </div>
+            <div type="poem">
+               <l>
+                  <hi>A</hi> Dainty couple which were newly wedded</l>
+               <l>And scarce had 40 nights together bedded:</l>
+               <l>The man was oft possest by his next neighbor,</l>
+               <l>That his young wife did undergoe a labor,</l>
+               <l>Which was unfitting he should so confute him,</l>
+               <l>For it was prov'd she often did cornute him,</l>
+               <l>This valiant horned man séem'd well contented,</l>
+               <l>And of his marriage he no jot repented,</l>
+               <l>For why, quoth he, she learn'd it of her mother,</l>
+               <l>Precept nor pattern took shée of no other,</l>
+               <l>When as her man and she were newly marryed</l>
+               <l>Things in like order then with them were carryed,</l>
+               <l>But when she came to be lame, blind, and aged,</l>
+               <l>Her friends would for her honesty stand ingaged,</l>
+               <l>And for my part I doe suppose her daughter</l>
+               <l>Either lives honest now, or will hereafter;</l>
+               <l>I will not with ill terms my wife importune,</l>
+               <l>I think 'twas not her fault but my bad fortune:</l>
+               <l>And fith that she's inclin'd to be so merry,</l>
+               <l>Ile be as boon, and tipple sack and sherry:</l>
+               <l>What care I for the voyce of Common people</l>
+               <l>Though every word séems higher then a stéeple,</l>
+               <l>Let <hi>Will</hi> and <hi>Bes</hi> and <hi>Tom</hi> against me mutter,</l>
+               <l>I do not care a pinne for all their clutter,</l>
+               <l>Perhaps that some will say I am the richer</l>
+               <l>Because my wife was such an excellent stitcher:</l>
+               <l>Another says I have a very dull head,</l>
+               <l>A third man calls me by the name of Bull head:</l>
+               <l>And this shall never move me to displeasure,</l>
+               <l>So that my wife brings in good store of treasure.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:211314:5"/>
+               <head>THE CROSSING OF PROVERBS.</head>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>
+                     <seg rend="decorInit">H</seg>E may swim that is held up by the chin.</p>
+               </sp>
+               <sp>
+                  <speaker>Cros.</speaker>
+                  <p>But not with a millstone tyed about his middle.</p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>Give a man luck and cast him into the sea.</p>
+               </sp>
+               <sp>
+                  <speaker>Cros.</speaker>
+                  <p>And so he may have the luck to be drowned.</p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>The breath of a wanton is swéet at the first.</p>
+               </sp>
+               <sp>
+                  <speaker>Cros.</speaker>
+                  <p>But at last more loathsome than poyson.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A fool will be won to do any thing.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>No, not any good thing.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A fool will be won with a bable.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, a crafty fool will not.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Wise men are never deceived.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yes sometimes with a woman.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Hée that digges a pit for another man falls in himselfe.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But not if he be the Sexton of the Parish.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>No man will change an old friend for a new.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yes, if once he falls into poverty.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He that will not work shall not eat.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, for many times hée that workes least eats most.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:211314:5"/>
+                  <speaker>Pro.</speaker>
+                  <p>He that will lye will steal.</p>
+               </sp>
+               <sp>
+                  <speaker>Cros.</speaker>
+                  <p>Not if his hands be bound behind him.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He that hath a scold to his wife cannot bée at quiet.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yes, when he is far enough from her.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He that doth good is repayed with evill.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But not all times.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A barking dog will bite.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But a snarling cur will both bark and bite.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>You never heard a fish wife Cry stinking fish.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yes once in Southwarke.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He that buyes dear must sell dear.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, there are many that buyes dear to give away.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Tobacco as some say cléereth the eye sight.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But I never will beléeve it.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>The love of a Harlot doth not last long.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yes, so long as a man hath one Groat in his purse.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Choice fare, strong drink, and warm clothes wil lengthen thy life.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if it bring in its mace to arrest thée.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>One cold drives out another.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not when Witold drives out Cuckold.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>The blind eat many a flye</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But not in Christmas holydays.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Like Master like man.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, Many an honest Master hath had a knave to his Man.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>It is a rare thing to have a beautifull wife.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not except she be honest.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>It is a good thing to have a loving wife.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if shée love another man better than her husband.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>It is an excellent thing to have a quiet wife.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if shée be dumb and cannot speak.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:211314:6"/>
+                  <speaker>Pro.</speaker>
+                  <p>It is a happy thing to have an honest wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Cros.</speaker>
+                  <p>Not unlesse shée bee endued with some other vertue.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He is wise that kéepeth a secret hidden.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But not if it be to his own hurt.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He is wise that revealeth a secret.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if it be to wrong a friend.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>The taste of water spoyles the voyce.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not of a Goose.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Hear, sée, and say nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, least thy throat be cut while thou keep silence.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lyars have very short legges.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But they have very long tongues.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>To be carefull is an excellent gift.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not except it be guided with discretion.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Better give the wool than the shéep.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if the shéep be rotten.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Set a théef on horseback and he will ride.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not far if he méet with the gallowes.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>It is never good to choose a wife by the light of a Candle.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yet she may be better by Candle than by Day<g ref="char:EOLhyphen"/>light,</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Children and fools tell all.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if they cannot speak.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A Tapster sometimes thrives backwards.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Tis not the Tapster tis his wife.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Time is a proud Champion.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, for hee will runne away from every one.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He that lives without a wife saves charges.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if he spend more in a Bawdy house than will maintain a family.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He y<seg rend="sup">e</seg> waiteth on a whore shall lose his labour.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, he may chance to be paid with a pox.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:211314:6"/>
+                  <speaker>Pro.</speaker>
+                  <p>Hee that goeth to bed without a supper may rise an hungry.</p>
+               </sp>
+               <sp>
+                  <speaker>Cros.</speaker>
+                  <p>Not so, he is not sure ro rise alive.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A wrangler will pick out the eyes of another.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But not if they be blind before.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He that loves me will love my hound.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if he eat up the butter.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Words and déeds are all one.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not amongst Dissemblers.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A fat Goose is meat for a man.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not when the Fox méets with her.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>The great fish eat up the small.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But not before they catch them.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Conscience was hanged long agoe.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, he was hanged that used no consci<g ref="char:EOLhyphen"/>ence.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Hottest love is soonest cold.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, a faithfull friend will say and hold.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>The biggest is the best.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not so, a Lark is better than a Kyte.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>It is a brave thing to have store of gold.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if thou be carried to prison for it.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Tell a tale to a Mare and shée will give thée no thanks.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yes, the clean contrary way.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>When Fortune pipeth then is good time to dance.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But not if thou hast no legs.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A Drunken wife néeds no Porter.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yes, to carry her home.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Good Ale makes the heart light.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But not if it overload the stomack.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>If the Mare trot the Colt wiil trot also.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if he be lame and cannot goe.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A joyfull heart makes a fair face.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But not in a black-moore.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:211314:7"/>
+                  <speaker>Pro.</speaker>
+                  <p>Love them that love thée.</p>
+               </sp>
+               <sp>
+                  <speaker>Cros.</speaker>
+                  <p>Not if they be harlots.</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>Kick a gauld horse and he will winch.</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not if he be dead:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>He that hath due to the Bée wil have the hony:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not so, he may be dismist of both:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>He that wakes all night may sléep all day:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not when a Souldier is in the face of his enemy:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>A Taylor may be an honest man:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not when hee cuts thrée sléeves for one gar<g ref="char:EOLhyphen"/>ment:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>Wisdome is a rare part in a Damsell:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>But not if she be adicted to folly:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>A sword is a dangerous weapon:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not till it be drawn:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>Manhood best becomes a souldier:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not if he flye from his Colours.</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>He shoots well that hits the mark:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not if it be to his own undoing:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>To pick a mans purse is flat felony:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not women pick their husbands purses:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>A drunkard is a Gentlemans fellow:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not so, he is not worthy to he a Beggers com<g ref="char:EOLhyphen"/>panion:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>Butter is good for any thing:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>But not to stop Ovens with:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>Every true Miller hath a golden thumbe:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not so true, the Miller hath a thumb of flesh.</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>Meat well boyled hurteth no body:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Yes the Hostis if it be not well paid for:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>A new broom swéeps clean:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not if a lazy huswife hath it in handling:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>Good deeds are repayd with evill:</p>
+               </sp>
+               <sp>
+                  <speaker>C:</speaker>
+                  <p>Not with good minded people:</p>
+               </sp>
+               <sp>
+                  <speaker>P:</speaker>
+                  <p>A lusty horse is a trusty servant:</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:211314:7"/>
+                  <speaker>Cros.</speaker>
+                  <p>That's not so if he cast his Master on the ground.</p>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <p>An unhappy boy bréeds a good man.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>That's not so, a good man bréeds an unhappy boy.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A quean is better than a slut:</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>That's not so, for a slut can but poyson the bo<g ref="char:EOLhyphen"/>dy, &amp; a quean will poyson both body and soule.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Nothing so much out of request as an old horse</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yes an old Servingman.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A Bucks horn and a Cuckolds horn are alike.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Thats not so, for a Buck sheds his horn once a year, and the Cuckold sheds his horns scarce once in his life time.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Short and sweet.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if it taste like a Crabbe.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Nothing more subtle than a whore.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Yes, the Devill.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>The longer he liveth the more wit he wil have.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if he be an Ideot.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>A beautifull woman gives content to her hus<g ref="char:EOLhyphen"/>band.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if she dub him knight of the forked order.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Pride and Lust commonly goe together.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not when a whore is brought to the whipping-post.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>He that will swear will lye.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Not if he bear a good conscience.</p>
+               </sp>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:211314:8"/>
+               <head>The Knavery of the Miller.</head>
+               <l>
+                  <hi>A</hi> Gentleman once walking on the way,</l>
+               <l>Met with <hi>Tom True</hi> the honest Millers boy,</l>
+               <l>A pound of Candles he had in his hand,</l>
+               <l>The Gentleman did earnestly demand,</l>
+               <l>To know the reason why he used still</l>
+               <l>To carry such store of candles to the Mill.</l>
+               <l>Sir, said the boy, wée soon shall have good sport,</l>
+               <l>For why, my Master means to kéep his Court:</l>
+               <l>So being parted at that instant season,</l>
+               <l>The man within himself began to reason,</l>
+               <l>What Court the Miller kept, and therefore he,</l>
+               <l>Was thus resolved, that he would goe sée.</l>
+               <l>And comming to the Mill late in the night,</l>
+               <l>He did perceive therein a mighty light,</l>
+               <l>So coutching close under a bush hard by,</l>
+               <l>He thought in time some knavery to spy:</l>
+               <l>At last he heard a very large Oration</l>
+               <l>Made by the Miller like a Proclamation,</l>
+               <l>With a loud voyce, next after his O yes,</l>
+               <l>He did begin his spéech as followeth this.</l>
+               <l>Boy make good chaste, with spéed unty each sack,</l>
+               <l>And sée what customers of late we lack,</l>
+               <l>The pretty Lad did as his Master bid him,</l>
+               <l>But yet unséen the Gentleman still hid him,</l>
+               <l>And so the Miller straight upon the same,</l>
+               <l>Cald all his Customers each one by name:</l>
+               <l>Come <hi>Thomas</hi> Gull appear with spéed in sight,</l>
+               <l>Or else thou shalt be mearct by this good light:</l>
+               <l>Bring <hi>Steeven</hi> Goose, <hi>William</hi> Woodcock too,</l>
+               <l>Else boy I charge thée make no more adoe,</l>
+               <l>Discharge thy conscience, finish up the rrouble,</l>
+               <l>And every one that comes not mearce him double:</l>
+               <pb facs="tcp:211314:8"/>
+               <l>The man unséen much wondred at the same,</l>
+               <l>At last he heard them call upon his name,</l>
+               <l>And fearing least his sack would pay a fine,</l>
+               <l>Crydout, hold, hold, I am a friend of thine.</l>
+               <l>This word throughout the Mill made all amazed,</l>
+               <l>And with their candles up and down they gazed;</l>
+               <l>Though long they looked, no man they could sée,</l>
+               <l>Which made the Miller think assuredlie,</l>
+               <l>For his misdealing, and his base demerit,</l>
+               <l>His Mill and he were haunted by some spirit.</l>
+               <l>Whereby into a frenzie straight he fell,</l>
+               <l>His peuter nose made shew he was not well,</l>
+               <l>His hoary hair from his bald head fell down,</l>
+               <l>Scarcely one honest hair left on his crown,</l>
+               <l>And quaking in the place where he did stand,</l>
+               <l>Not one true finger left on his right hand;</l>
+               <l>And many griefs sutable with the same,</l>
+               <l>Which now would be too long for me to name,</l>
+               <l>In this distresse he took him to his bed,</l>
+               <l>And since that time <hi>Tom True</hi> the Millers dead.</l>
+               <l>Therefore to end my theme I hold it best,</l>
+               <l>You may conceive all this is but a jest.</l>
+            </div>
+            <div type="poem">
+               <head>The Drunkards Dream.</head>
+               <l>
+                  <hi>A</hi> Country fellow being potifi'd,</l>
+               <l>Lay down to sléep fast by the high way side,</l>
+               <l>And as this Pot-companion was a sléeping,</l>
+               <l>Morphus his vitall sences had in kéeping:</l>
+               <l>Mean while a Traveller that passed by,</l>
+               <l>And seeing him so much at randome lye,</l>
+               <l>Awaked him and straight upon the same,</l>
+               <l>Desired him for to unfold his dreame;</l>
+               <l>For why quoth he I sée you often start,</l>
+               <l>By which I know that in your inward part</l>
+               <l>You were possest with some prodigious sight,</l>
+               <l>Which in your sléep did greatly you afright.</l>
+               <pb facs="tcp:211314:9"/>
+               <l>The man starts up like one being in a maze,</l>
+               <l>And on the Traveller did wistly gaze,</l>
+               <l>And presently his dream began to tell,</l>
+               <l>I have quoth hée séen all the rooms in hell,</l>
+               <l>But since my memory so dull is grown,</l>
+               <l>That every severall I cannot make known.</l>
+               <l>I will relate what I can best remember,</l>
+               <l>Me thought twas done in the month of September</l>
+               <l>An Ale-wife first was by a demi-devill</l>
+               <l>Brought in because indéed her déeds were evill,</l>
+               <l>Her chiefest customers she used to gull,</l>
+               <l>And never fild her pots to poor folks full,</l>
+               <l>Beside the dropings of the tap she'ld send</l>
+               <l>And bring false reckoning to her néerest friend,</l>
+               <l>And oftentimes her tongue would bréed much strife</l>
+               <l>Twixt many an honest neighbour and his wife.</l>
+               <l>And then me thought this Alewife for her trouble</l>
+               <l>Was in the Stygian Lake tormented double.</l>
+               <l>Soon after her presented were thrée queans,</l>
+               <l>Who by ungodly dealings got their means,</l>
+               <l>Their faces painted, and their golden locks,</l>
+               <l>But all their noses painted with the pox,</l>
+               <l>And for their earthly pleasure now their gain,</l>
+               <l>Is to be punished with a lasting pain.</l>
+               <l>And after them me thought apace did wander</l>
+               <l>A foulsome Baud, a Cut-purse and a Pander,</l>
+               <l>Numbers of Rookes that in the fields lay playing,</l>
+               <l>Whē twas more fit they should have beē a praying</l>
+               <l>Sherkers &amp; cheters in great crowds came prācing</l>
+               <l>As if the Devill kept a school for Dancing:</l>
+               <l>Chandlers also to shew their weights &amp; measure,</l>
+               <l>And mony mongers with great heaps of treasure:</l>
+               <l>Bakers also for sizing of their bread,</l>
+               <l>Bewayling of the time they were missed:</l>
+               <l>Brewers came with them onely for this matter,</l>
+               <l>Because they left out malt and put in water.</l>
+               <pb facs="tcp:211314:9"/>
+               <l>The Traveller being weary of his talk,</l>
+               <l>Sayd Friend farewell, for now I must go walk;</l>
+               <l>And so they parted both I know not whether,</l>
+               <l>I think indéed they stayd too long together.</l>
+            </div>
+            <div type="poem">
+               <head>A Fare from Wapping.</head>
+               <l>
+                  <hi>A</hi> Wench néer <hi>Wapping</hi> lately was espy'd,</l>
+               <l>With a young fellow by a hedges side,</l>
+               <l>And as tis said in midest of their bravery,</l>
+               <l>Two boat men took them in the height of knavery,</l>
+               <l>And with a Ropes end they the fellow basted,</l>
+               <l>But the poor wench a greater torment tasted;</l>
+               <l>For she was brought before some men at last</l>
+               <l>The which on her their censures quickly past,</l>
+               <l>That she should then unto a boat be tide</l>
+               <l>And so be drawn unto the other side.</l>
+               <l>Fast to the stern end they then her bound,</l>
+               <l>She thought of nothing but she should be drownd,</l>
+               <l>But they had quickly row'd her throw the water,</l>
+               <l>And charged her to live honest ever after:</l>
+               <l>Now when she felt her self upon the ground,</l>
+               <l>In short time after she her tongue had found,</l>
+               <l>And with a voyce both lusty stout and bold</l>
+               <l>She did begin to fret, fume, chafe and scold.</l>
+               <l>Are you the men, said she, would hang or drown me</l>
+               <l>Or doe you think at this time to confound me:</l>
+               <l>No, no, alas your labor is in vain,</l>
+               <l>For I will surely to the sport again:</l>
+               <l>You say that you have washt me clean and swéet,</l>
+               <l>The betters for my friend when we doe méet:</l>
+               <l>Yet in this way it may bée understood</l>
+               <l>That this same washing hath done me much good,</l>
+               <l>He that before would give me but a crown,</l>
+               <l>Shall now pay twenty shillings ready down.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:211314:10"/>
+               <head>
+                  <l>If you think the Book is not worth your money,</l>
+                  <l>Here's a Song at the later end is worth a penny.</l>
+               </head>
+               <opener>To the tune of Last Christmas twas my chance.</opener>
+               <lg>
+                  <l>I Am asham'd to see</l>
+                  <l>Such antick foolish fashions</l>
+                  <l>As up and down doth flee,</l>
+                  <l>Besides such altrations</l>
+                  <l>As there bee.</l>
+               </lg>
+               <lg>
+                  <l>Both men and women to</l>
+                  <l>Their shapes doe so abuse,</l>
+                  <l>How ugly doe they show</l>
+                  <l>In their forked tin-to'd shooes</l>
+                  <l>When as they go.</l>
+               </lg>
+               <lg>
+                  <l>A pride likewise some take</l>
+                  <l>In poudring of their shoulders</l>
+                  <l>When nits or meale will make</l>
+                  <l>As brave a sight to the beholders</l>
+                  <l>I dare speak.</l>
+               </lg>
+               <lg>
+                  <l>On their codpisses theyl wear</l>
+                  <l>Sorts of Ribons plenty,</l>
+                  <l>And vapor, rant, and tear</l>
+                  <l>When their pockets they are empty</l>
+                  <l>I dare swear.</l>
+               </lg>
+               <lg>
+                  <l>I met one in the street</l>
+                  <l>Her face was daubd with spots</l>
+                  <l>But when I did her greet</l>
+                  <l>I thought she had the pox</l>
+                  <l>Her breath was so sweet.</l>
+               </lg>
+               <lg>
+                  <l>Your tin-to'd boots &amp; shooes,</l>
+                  <l>Black paches &amp; painted faces,</l>
+                  <l>Every dragletail now doth use</l>
+                  <l>And no smockes upon their Ar—es</l>
+                  <l>That's no news.</l>
+               </lg>
+               <lg>
+                  <l>If <hi>Diogenes</hi> had lived</l>
+                  <l>In these times of altrations,</l>
+                  <l>He would a blusht to see</l>
+                  <l>Such antick foolish fashions</l>
+                  <l>As now there be.</l>
+               </lg>
+               <lg>
+                  <l>For fear I should offend</l>
+                  <l>In this harmlesse dity,</l>
+                  <l>I'l stop my tongue and end,</l>
+                  <l>Truth now is blam'd that's pity</l>
+                  <l>My dear friend.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:211314:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
